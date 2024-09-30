@@ -1,0 +1,12 @@
+Constrained Instances: 'base_My-1', 'boat-1'
+Constraint Name: ProfileCenter4
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'handle_My-1', 'middle_My-1'
+Constraint Name: ProfileCenter5
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'handle_My-1', 'hand_My-1'
+Constraint Name: ProfileCenter6
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
