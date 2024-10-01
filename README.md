@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://your_image_link_1" alt="Robot Boat Side View" width="400"/></td>
-    <td><img src="https://your_image_link_2" alt="Robot Boat Top View" width="400"/></td>
+    <td><img src="https://github.com/dulan-devinda/Life-Essential-Supply-Robot/blob/main/Images/Screenshot%202024-10-01%20170430.png?raw=true" width="500"/></td>
+    <td><img src="https://github.com/dulan-devinda/Life-Essential-Supply-Robot/blob/main/Images/Screenshot%202024-10-01%20170536.png?raw=true" width="500"/></td>
   </tr>
 </table>
 
